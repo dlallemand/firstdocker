@@ -1,2 +1,2 @@
 # firstdocker
-test docekr
+test docker
